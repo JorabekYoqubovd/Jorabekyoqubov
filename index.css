@@ -1,0 +1,168 @@
+  ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  text-align: center;
+}
+header{
+  height: 115vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url(https://templatemo.com/templates/templatemo_570_chain_app_dev/assets/images/slider-left-dec.png);
+}
+nav{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  transition: all .3 ease;
+  height: 15vh;
+  border-bottom: 1px solid black;
+}
+li{
+  margin: 20px;
+}
+a{
+  text-decoration: none;
+  color: wheat;
+}
+.as{
+  width: 100px;
+  margin-right: 400px;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  overflow-x: hidden;
+}
+.sa{
+  padding: 12px 15px;
+  margin-left: 50px;
+  background: blue;
+  border-radius: 20px;
+}
+.asd{
+   color: #4b8ef1;
+}
+.ol {
+  color: black;
+}
+.ol:hover{
+  color: #4b8ef1;
+}
+.dsa{
+  color: white;
+}
+.parentt{
+
+  padding-top: 250px;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.childd{
+  text-align: center;
+  margin: 10px;
+  width: 600px;
+  height: 600px;
+  background:   ;
+}
+
+.lo{
+  font-size: 40px;
+  padding-top: 140px;
+}
+.bla {
+  padding-top: 20px;
+  padding-right: 90px;
+}
+.pparent{
+  display: flex;
+
+} 
+.chhild{
+  margin: 50px;
+  border: 1px solid transparent;
+  padding: 12px 15px;
+  border-radius: 20px;
+  background-color: #023e8a;
+
+} 
+.ii{
+  color: transparent;
+}
+
+
+.foot{
+    background-image: url(https://templatemo.com/templates/templatemo_570_chain_app_dev/assets/images/footer-bg.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 130vh;
+    padding-top: 200px;
+    text-align: center;
+}
+.blaa{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.l1{
+ color: white;
+} 
+.chiild{
+  padding-top: 10px;
+  margin: 30px;
+}
+.sal{
+  padding: 12px 50px;
+  border-radius: 20px;
+  background: transparent;
+  border: 1px solid white;
+  color: black;
+}
+.sal:hover{
+  background-color: white;
+}
+.las{
+  padding: 12px 50px;
+  border-radius: 20px;
+  background: transparent;
+  border: 1px solid white;
+}
+
+::placeholder {
+  color: white;
+}
+.chilld {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 32vh;
+}
+.bbb{
+  color: white;
+  margin: 30px;
+  text-align: center;
+}
+
+.rasm{
+  width: 80px;
+}
+.h7{
+  padding-top: 130px;
+  color: white;
+}
+.h9{
+  color: white;
+}
+
+
+
+
